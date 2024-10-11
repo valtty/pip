@@ -1,0 +1,41 @@
+.sidebar{
+    font-family: "Epistle"; 
+    font-size: 15px;
+    margin-left: 20px;
+}
+.header{
+    font-family: "Epistle"; 
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20;
+}
+
+.korobka{
+    display: flex;
+    margin-right: 20px;
+}
+
+.text{
+    margin-left: 20px;
+    font-family: "Epistle"; 
+    font-size: 17px;
+    margin-top: 20px;
+}
+
+.monkey{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.tittle{
+    font-size: 30px;
+}
+
+.tittle1{
+    font-family: "Epistle"; 
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
