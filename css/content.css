@@ -39,3 +39,52 @@
     margin-top: 10px;
     margin-left: 20px;
 }
+
+.korobka1{
+    display: flex;
+    margin-right: 20px;
+}
+
+.text1{
+    margin-left: 20px;
+    font-family: "Epistle"; 
+    font-size: 17px;
+    margin-top: 20px;
+    
+}
+
+.bl{
+    margin-left: 20px;
+    margin-top: 20px;
+    float: inline-end;
+}
+
+.korobka2{
+    display: flex;
+    margin-right: 20px;
+}
+
+.text2{
+    margin-left: 20px;
+    font-family: "Epistle"; 
+    font-size: 17px;
+    margin-top: 20px;
+    
+}
+
+
+
+.text3{
+    margin-left: 20px;
+    font-family: "Epistle"; 
+    font-size: 17px;
+    margin-top: 20px;
+    
+}
+
+.tittle2{
+    font-family: "Epistle"; 
+    font-size: 24px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
